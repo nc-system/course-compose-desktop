@@ -1,2 +1,3 @@
-# course-python
-NC Course Python
+# Course - Compose Desktop
+
+Course NC - Compose Desktop
